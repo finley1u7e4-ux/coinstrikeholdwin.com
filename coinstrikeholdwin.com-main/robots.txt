@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coinstrikeholdwin.com/sitemap.xml
